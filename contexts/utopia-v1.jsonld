@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@protected": true,
+    "id": "@id",
+    "type": "@type",
+    "signatureBitfield": {
+      "@id": "https://w3id.org/utopia#signatureBitfield",
+      "@type": "https://w3id.org/security#multibase"
+    },
+    "UsDriversLicenseWithMandatoryFieldsPdf417Barcode": "https://w3id.org/utopia#UsDriversLicenseWithMandatoryFieldsPdf417Barcode",
+    "https://qa.vb.veresissuer.dev/statuses/z1AEWDXiBBsaMnZHTxvLJLq5a/status-lists": "https://qa.vb.veresissuer.dev/statuses/z1AEWDXiBBsaMnZHTxvLJLq5a/status-lists",
+    "did:key:zDnaefVqQ1QaAsdNgogSccyAWHoZDVaoPoeKnWzQYLk6MNC1p": "did:key:zDnaefVqQ1QaAsdNgogSccyAWHoZDVaoPoeKnWzQYLk6MNC1p",
+    "did:key:zDnaefVqQ1QaAsdNgogSccyAWHoZDVaoPoeKnWzQYLk6MNC1p#zDnaefVqQ1QaAsdNgogSccyAWHoZDVaoPoeKnWzQYLk6MNC1p": "did:key:zDnaefVqQ1QaAsdNgogSccyAWHoZDVaoPoeKnWzQYLk6MNC1p#zDnaefVqQ1QaAsdNgogSccyAWHoZDVaoPoeKnWzQYLk6MNC1p"
+  }
+}
